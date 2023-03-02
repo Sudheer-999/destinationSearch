@@ -1,0 +1,17 @@
+.item-image {
+  width: 230px;
+}
+
+.item-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  flex-grow: 1;
+}
+
+.item-name {
+  text-align: start;
+  font-size: 14px;
+  margin-top: 5px;
+  color: #252627;
+}
